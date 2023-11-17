@@ -1,5 +1,16 @@
 # 代码说明
 
+## 数据集
+
+Latest EqualChange dataset (similar duplicate images replaced)
+https://drive.google.com/drive/folders/1MgzE1ab5IbS_qn_8hRD5tlBs9h3H926y?usp=drive_link
+
+THE PRS250 contains REAL, PAINTING and SKETCH domains，250 images per category
+https://drive.google.com/drive/folders/1ve1RWwe8yx5Dv7rllkbGuJGSnxShpeJ1?usp=drive_link
+
+Old EqualChange dataset (similar duplicate images not replaced)
+https://drive.google.com/drive/folders/1iOIZWzEkkeBrj_MOrP1Zpnrk9FA3drYH?usp=drive_link
+
 本代码共分四个部分，分别是基线方法，域适应方法，风格迁移，相同相似检测，其中前三个都用到了不同的库。
 
 ## 基线方法

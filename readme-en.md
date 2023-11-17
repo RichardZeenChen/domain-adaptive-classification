@@ -1,5 +1,16 @@
 # Code Description
 
+## Dataset
+
+Latest EqualChange dataset (similar duplicate images replaced)
+https://drive.google.com/drive/folders/1MgzE1ab5IbS_qn_8hRD5tlBs9h3H926y?usp=drive_link
+
+THE PRS250 contains REAL, PAINTING and SKETCH domains，250 images per category
+https://drive.google.com/drive/folders/1ve1RWwe8yx5Dv7rllkbGuJGSnxShpeJ1?usp=drive_link
+
+Old EqualChange dataset (similar duplicate images not replaced)
+https://drive.google.com/drive/folders/1iOIZWzEkkeBrj_MOrP1Zpnrk9FA3drYH?usp=drive_link
+
 This code is divided into four parts, namely baseline method, domain adaptation method, style migration, and same-similarity detection, the first three of which use different libraries.
 
 ## Baseline method
